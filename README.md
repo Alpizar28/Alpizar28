@@ -15,12 +15,28 @@ Construyo productos digitales, sistemas a medida y automatizaciones que conviert
 
 ## Tecnologías
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,python,cpp,cs,nextjs,react,tailwind,fastapi,postgres,supabase,firebase,docker,git,githubactions,vercel&amp;perline=8&amp;theme=dark">
-  <img alt="TypeScript, Python, C++, C#, Next.js, React, Tailwind CSS, FastAPI, PostgreSQL, Supabase, Firebase, Docker, Git, GitHub Actions y Vercel" src="https://skillicons.dev/icons?i=ts,python,cpp,cs,nextjs,react,tailwind,fastapi,postgres,supabase,firebase,docker,git,githubactions,vercel&amp;perline=8&amp;theme=light">
-</picture>
+<div>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Typescript.svg"><img alt="TypeScript" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Typescript.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Python.svg"><img alt="Python" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Python.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/C%2B%2B.svg"><img alt="C++" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/C%2B%2B.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/C%23.svg"><img alt="C#" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/C%23.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/NextJS.svg"><img alt="Next.js" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/NextJS.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/React.svg"><img alt="React" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/React.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/React%20Native.svg"><img alt="React Native" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/React%20Native.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Expo.svg"><img alt="Expo" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Expo.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/TailwindCSS.svg"><img alt="Tailwind CSS" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/TailwindCSS.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/FastAPI.svg"><img alt="FastAPI" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/FastAPI.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/PostgreSQL.svg"><img alt="PostgreSQL" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/PostgreSQL.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Supabase.svg"><img alt="Supabase" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Supabase.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Firebase.svg"><img alt="Firebase" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Firebase.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/PrismaORM.svg"><img alt="Prisma" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/PrismaORM.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Docker.svg"><img alt="Docker" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Docker.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Playwright.svg"><img alt="Playwright" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Playwright.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/OpenAI.svg"><img alt="OpenAI" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/OpenAI.svg"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Vercel.svg"><img alt="Vercel" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Vercel.svg"></picture>
+</div>
 
-**También trabajo con:** `React Native` · `Expo` · `Prisma` · `SQLite` · `Playwright` · `Vite` · `Coolify` · `OpenAI`
+**También trabajo con:** `Git` · `GitHub Actions` · `SQLite` · `Vite` · `Coolify`
 
 ## Proyectos destacados
 

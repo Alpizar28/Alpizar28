@@ -4,7 +4,7 @@
 
 Construyo productos digitales, sistemas a medida y automatizaciones que convierten ideas en herramientas útiles.
 
-**Co‑Founder en Jokem Tech** · [Ver mi portafolio → alpizar.dev](https://alpizar.dev)
+**Co‑Founder en [Jokem Tech](https://jokem.tech)** · [Ver mi portafolio → alpizar.dev](https://alpizar.dev)
 
 ## Sobre mí
 
@@ -15,9 +15,12 @@ Construyo productos digitales, sistemas a medida y automatizaciones que conviert
 
 ## Tecnologías
 
-| Lenguajes | Frontend y móvil | Backend, datos y despliegue |
-| :-- | :-- |
-| `TypeScript` · `Python` · `C++` · `C#` · `SQL` | `Next.js` · `React` · `React Native` · `Expo` · `Tailwind CSS` | `FastAPI` · `PostgreSQL` · `Supabase` · `Firebase` · `Docker` · `Vercel` · `Coolify` |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,python,cpp,cs,nextjs,react,tailwind,fastapi,postgres,supabase,firebase,docker,git,githubactions,vercel&amp;perline=8&amp;theme=dark">
+  <img alt="TypeScript, Python, C++, C#, Next.js, React, Tailwind CSS, FastAPI, PostgreSQL, Supabase, Firebase, Docker, Git, GitHub Actions y Vercel" src="https://skillicons.dev/icons?i=ts,python,cpp,cs,nextjs,react,tailwind,fastapi,postgres,supabase,firebase,docker,git,githubactions,vercel&amp;perline=8&amp;theme=light">
+</picture>
+
+**También trabajo con:** `React Native` · `Expo` · `Prisma` · `SQLite` · `Playwright` · `Vite` · `Coolify` · `OpenAI`
 
 ## Proyectos destacados
 

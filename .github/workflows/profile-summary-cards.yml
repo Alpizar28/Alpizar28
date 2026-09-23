@@ -26,4 +26,11 @@ jobs:
           USERNAME: Alpizar28
           BRANCH_NAME: main
           UTC_OFFSET: -6
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+      - name: Guardar tarjetas actualizadas
+        run: |
+          git config user.name "Jose Pablo Alpizar"
+          git config user.email "j.alpizar.1@estudiantec.cr"
+          git add profile-summary-card-output
+          git diff --cached --quiet || git commit -m "chore: update profile summary cards"
+          git push

@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jose Pablo Alpízar 👋
+# ¡Hola! Soy Jose Pablo Alpizar 👋
 
 ### Estudiante de Ingeniería en Computadores · Costa Rica 🇨🇷
 

@@ -33,7 +33,7 @@ Construyo productos digitales, sistemas a medida y automatizaciones que conviert
 
 [Código en GitHub →](https://github.com/Alpizar28/CambiaFiguritas)
 
-### 🍕 [Los Olivos POS](https://los-olivos-pos.vercel.app)
+### 🍕 Los Olivos POS
 **Sistema de punto de venta para restaurante.** Flujo táctil para caja, pantalla de cocina, catálogo de 98 productos, gestión de órdenes por roles y reportes de ventas. Está desplegado para una operación real.
 
 `Next.js` · `TypeScript` · `Prisma` · `Supabase Auth` · `PostgreSQL` · `Playwright` · `Vercel`

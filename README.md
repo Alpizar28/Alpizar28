@@ -2,22 +2,53 @@
 
 ### Estudiante de Ingeniería en Computadores · Costa Rica 🇨🇷
 
-Construyo proyectos mientras fortalezco mis bases en desarrollo de software y servicios web.
+Construyo productos digitales, sistemas a medida y automatizaciones que convierten ideas en herramientas útiles.
 
-> Actualmente aprendiendo **fundamentos de Web Services**.
+**Co‑Founder en Jokem Tech** · [Ver mi portafolio → alpizar.dev](https://alpizar.dev)
 
 ## Sobre mí
 
 - 📍 Vivo en Costa Rica.
 - 🎓 Estudio Ingeniería en Computadores.
-- 🌱 Me interesa seguir creando soluciones útiles con tecnología.
+- 🌱 Me interesan el desarrollo full-stack, los productos con IA y la automatización.
 - ✉️ Puedes escribirme a [jpablo2807xd@gmail.com](mailto:jpablo2807xd@gmail.com).
 
 ## Tecnologías
 
-| Lenguajes | Herramientas |
+| Lenguajes | Frontend y móvil | Backend, datos y despliegue |
 | :-- | :-- |
-| `C++` · `C#` · `Python` | `Git` · `Visual Studio Code` |
+| `TypeScript` · `Python` · `C++` · `C#` · `SQL` | `Next.js` · `React` · `React Native` · `Expo` · `Tailwind CSS` | `FastAPI` · `PostgreSQL` · `Supabase` · `Firebase` · `Docker` · `Vercel` · `Coolify` |
+
+## Proyectos destacados
+
+### 🌾 [AgroOS](https://agro.alpizar.dev)
+**Plataforma de gestión arrocera.** Centraliza costos de producción por parcela y ciclo, precios históricos, gastos, auditoría, comparativos y reportes exportables. Incluye roles diferenciados para administración y operación.
+
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `RLS` · `Tailwind CSS` · `Coolify`
+
+### ⚽ [CambiaFiguritas](https://cambiafiguritas.web.app)
+**App multiplataforma para el álbum del Mundial 2026.** Permite llevar el progreso de 981 figuritas, encontrar intercambios cercanos con matching por distancia, gestionar eventos y sincronizar el álbum entre dispositivos.
+
+`React Native` · `Expo` · `TypeScript` · `Firebase Auth` · `Firestore` · `Cloud Functions` · `FCM` · `PWA`
+
+[Código en GitHub →](https://github.com/Alpizar28/CambiaFiguritas)
+
+### 🍕 [Los Olivos POS](https://los-olivos-pos.vercel.app)
+**Sistema de punto de venta para restaurante.** Flujo táctil para caja, pantalla de cocina, catálogo de 98 productos, gestión de órdenes por roles y reportes de ventas. Está desplegado para una operación real.
+
+`Next.js` · `TypeScript` · `Prisma` · `Supabase Auth` · `PostgreSQL` · `Playwright` · `Vercel`
+
+### 🎓 [StudyOS](https://study.alpizar.dev)
+**Sistema académico personal conectado a TEC Digital.** Convierte materiales de cursos en una base de conocimiento navegable y concentra entregas, notas, noticias y horario. Se integra con TEC Brain para sincronizar información académica y documentos.
+
+`React` · `Vite` · `FastAPI` · `Python` · `SQLite` · `Docker` · `Coolify`
+
+### 🏋️ GymOS
+**Sistema operativo para entrenamiento personal.** Reúne generación de planes, progresión determinista, registro de sesiones, historial y contexto de salud en una experiencia mobile-first, con una capa de planificación asistida por IA.
+
+`Next.js` · `React` · `FastAPI` · `Python` · `PostgreSQL` · `Supabase` · `OpenAI` · `Docker`
+
+> Más productos, sitios web y casos de estudio en [**alpizar.dev**](https://alpizar.dev).
 
 ## Actividad en GitHub
 
@@ -46,6 +77,7 @@ Construyo proyectos mientras fortalezco mis bases en desarrollo de software y se
 
 ## Encuéntrame
 
+- [Portafolio](https://alpizar.dev)
 - [GitHub](https://github.com/Alpizar28)
 - [LinkedIn](https://www.linkedin.com/in/jose-alpizar-3a9100323)
 

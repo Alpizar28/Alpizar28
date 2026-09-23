@@ -1,17 +1,43 @@
 # ¡Hola! Soy Jose Pablo Alpizar 👋
 
-### Estudiante de Ingeniería en Computadores · Costa Rica 🇨🇷
+### Computer Engineering Student | Co‑Founder @ Jokem Tech | From Ideas to Products with AI
 
-Construyo productos digitales, sistemas a medida y automatizaciones que convierten ideas en herramientas útiles.
+<sub>Cartago, Costa Rica 🇨🇷</sub>
 
 **Co‑Founder en [Jokem Tech](https://jokem.tech)** · [Ver mi portafolio → alpizar.dev](https://alpizar.dev)
 
-## Sobre mí
+## Perfil
 
 - 📍 Vivo en Costa Rica.
-- 🎓 Estudio Ingeniería en Computadores.
+- 🎓 Estudio Ingeniería en Computadores en el Tecnológico de Costa Rica.
 - 🌱 Me interesan el desarrollo full-stack, los productos con IA y la automatización.
 - ✉️ Puedes escribirme a [jpablo2807xd@gmail.com](mailto:jpablo2807xd@gmail.com).
+
+## About
+
+My interest in technology started with Minecraft.
+
+At first, it was just a game. Then it became curiosity: how servers worked, how computers handled worlds, how hardware affected performance, and how different pieces of technology connected behind the scenes. That curiosity eventually led me to Computer Engineering.
+
+Today, my focus is on software development, full-stack applications, AI-assisted workflows, and digital products. What I enjoy most is taking an idea and turning it into something real: defining the concept, planning the product, choosing the right technologies, building it, testing it, and improving it.
+
+AI has become a key part of the way I work. I use it to explore ideas, compare tools, speed up development, test different approaches, and learn faster. I’ve tried different AI tools, development environments, and language models because I like understanding what each one does best and how they can be used in real projects.
+
+What motivates me most is that today, with the right tools, a single person can build things that once required entire teams. I love exploring new ideas and turning them into real products that people can use, improve, and learn from.
+
+Right now, I’m combining my university studies with the development of real projects through Jokem, always looking for ways to learn, build, and turn ideas into useful products.
+
+## Experiencia
+
+- **Ingeniero de software júnior · TEC Emprende Lab** *(jul. 2025 – presente)* — Arquitectura de sistemas y desarrollo full-stack para plataformas internas.
+- **Co‑Owner · [Jokem Technologies](https://jokem.tech)** *(jun. 2025 – presente)* — Sistemas digitales, automatización con IA e integración de procesos.
+- **Fiscal Electoral · Tecnológico de Costa Rica** *(sep. 2025 – presente)* — Organización y supervisión de procesos electorales estudiantiles, con énfasis en liderazgo, ética, trabajo en equipo y toma de decisiones.
+
+## Educación y certificaciones
+
+- **Ingeniería en Computadores** · Tecnológico de Costa Rica *(feb. 2024 – ago. 2029)*
+- **Fundamentos de Servicios Web: Crea tu mini red social** · Tecnológico de Costa Rica — Credencial `2025-DS-02-036`
+- **Introducción a la ciberseguridad** · Tecnológico de Costa Rica — Credencial `2025-DS-12-034`
 
 ## Tecnologías
 
@@ -22,18 +48,13 @@ Construyo productos digitales, sistemas a medida y automatizaciones que conviert
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/C%23.svg"><img alt="C#" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/C%23.svg"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/NextJS.svg"><img alt="Next.js" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/NextJS.svg"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/React.svg"><img alt="React" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/React.svg"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/React%20Native.svg"><img alt="React Native" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/React%20Native.svg"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Expo.svg"><img alt="Expo" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Expo.svg"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/TailwindCSS.svg"><img alt="Tailwind CSS" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/TailwindCSS.svg"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/FastAPI.svg"><img alt="FastAPI" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/FastAPI.svg"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/PostgreSQL.svg"><img alt="PostgreSQL" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/PostgreSQL.svg"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Supabase.svg"><img alt="Supabase" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Supabase.svg"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Firebase.svg"><img alt="Firebase" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Firebase.svg"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/PrismaORM.svg"><img alt="Prisma" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/PrismaORM.svg"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Docker.svg"><img alt="Docker" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Docker.svg"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Playwright.svg"><img alt="Playwright" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Playwright.svg"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/OpenAI.svg"><img alt="OpenAI" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/OpenAI.svg"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Vercel.svg"><img alt="Vercel" width="48" height="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Vercel.svg"></picture>
 </div>
 
 **También trabajo con:** `Git` · `GitHub Actions` · `SQLite` · `Vite` · `Coolify`
@@ -46,26 +67,26 @@ Construyo productos digitales, sistemas a medida y automatizaciones que conviert
 `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `RLS` · `Tailwind CSS` · `Coolify`
 
 ### ⚽ [CambiaFiguritas](https://cambiafiguritas.web.app)
-**App multiplataforma para el álbum del Mundial 2026.** Permite llevar el progreso de 981 figuritas, encontrar intercambios cercanos con matching por distancia, gestionar eventos y sincronizar el álbum entre dispositivos.
+**App para coleccionistas del álbum Panini Mundial 2026.** Permite gestionar el álbum digital, identificar figuritas faltantes y repetidas, visualizar el progreso y encontrar personas cercanas para intercambiar. Ha superado **2.5K visitantes**, **3.5K visitas** y casi **10K páginas vistas**.
 
-`React Native` · `Expo` · `TypeScript` · `Firebase Auth` · `Firestore` · `Cloud Functions` · `FCM` · `PWA`
+`TypeScript` · `Firebase Auth` · `Firestore` · `Cloud Functions` · `FCM` · `PWA`
 
 [Código en GitHub →](https://github.com/Alpizar28/CambiaFiguritas)
 
 ### 🍕 Los Olivos POS
 **Sistema de punto de venta para restaurante.** Flujo táctil para caja, pantalla de cocina, catálogo de 98 productos, gestión de órdenes por roles y reportes de ventas. Está desplegado para una operación real.
 
-`Next.js` · `TypeScript` · `Prisma` · `Supabase Auth` · `PostgreSQL` · `Playwright` · `Vercel`
+`Next.js` · `TypeScript` · `Supabase Auth` · `PostgreSQL` · `Playwright`
 
 ### 🎓 [StudyOS](https://study.alpizar.dev)
 **Sistema académico personal conectado a TEC Digital.** Convierte materiales de cursos en una base de conocimiento navegable y concentra entregas, notas, noticias y horario. Se integra con TEC Brain para sincronizar información académica y documentos.
 
-`React` · `Vite` · `FastAPI` · `Python` · `SQLite` · `Docker` · `Coolify`
+`React` · `Vite` · `Python` · `SQLite` · `Docker` · `Coolify`
 
 ### 🏋️ GymOS
 **Sistema operativo para entrenamiento personal.** Reúne generación de planes, progresión determinista, registro de sesiones, historial y contexto de salud en una experiencia mobile-first, con una capa de planificación asistida por IA.
 
-`Next.js` · `React` · `FastAPI` · `Python` · `PostgreSQL` · `Supabase` · `OpenAI` · `Docker`
+`Next.js` · `React` · `Python` · `PostgreSQL` · `Supabase` · `OpenAI` · `Docker`
 
 > Más productos, sitios web y casos de estudio en [**alpizar.dev**](https://alpizar.dev).
 

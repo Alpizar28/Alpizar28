@@ -1,0 +1,29 @@
+name: Actualizar tarjetas del perfil
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/profile-summary-cards.yml
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generar-tarjetas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generar resumen de actividad
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Alpizar28
+          BRANCH_NAME: main
+          UTC_OFFSET: -6
+          AUTO_PUSH: true
